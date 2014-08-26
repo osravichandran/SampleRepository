@@ -1,4 +1,4 @@
 SampleRepository
 ================
 
-Sample repository to work with GitHub
+Sample repository to test 
